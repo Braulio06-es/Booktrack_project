@@ -8,7 +8,7 @@ Correo electrónico: brauliopv2h@gmail.com
 
 ##Gustos
 
-- *Libro favorito*: El nombre del viento
+- *Libros favorito*: El nombre del viento, El héroe de las eras
 
 - *Autor favorito*: Brandon Sanderson
 
