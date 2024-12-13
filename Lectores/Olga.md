@@ -1,6 +1,9 @@
 ----------------Perfil----------------------
+
 Nombre: Olga
+
 Apellidos: Moreno Martín
+
 Correo electrónico: Olgamorenomartin@gmail.com
 
 ##Gustos
