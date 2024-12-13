@@ -4,6 +4,8 @@ Nombre: Olga
 
 Apellidos: Moreno Martín
 
+Condición: Moderador
+
 Correo electrónico: Olgamorenomartin@gmail.com
 
 ## Gustos
