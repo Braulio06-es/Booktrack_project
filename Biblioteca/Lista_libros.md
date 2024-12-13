@@ -1,23 +1,29 @@
-## Popurrí de libros para descargar
+## Popurrí de libros para descargar (No están totalmente ordenados porque al añadirse nuevos libros continuamente con el usuario, sería imposible tenerlos completamente distribuidos)
 
 ----------Libros----------
+## Fantasía
+- El imperio final (Brandon Sanderson)
 
-- El imperio final
+- El pozo de la ascensión (Brandon Sanderson)
 
-- El pozo de la ascensión
+- El héroe de las eras (Brandon Sanderson)
 
-- El héroe de las eras
+- El camino de los reyes (Brandon Sanderson)
 
-- El camino de los reyes
+- La voz de las espadas (Joe Abercrombie)
 
-- La voz de las espadas
+- El nombre del viento (Patrick Rothfuss)
 
-- 1986
+- El temor de un hombre sabio (Patrick Rothfuss)
 
-- Piso para dos
+## Ficción
 
-- El nombre del viento
+- 1986 (George Orwell)
 
-- El temor de un hombre sabio
+## Romance
 
-- Hábitos atómicos
+- Piso para dos (Beth O'leary)
+
+## No ficción
+
+- Hábitos atómicos (James Clear)
