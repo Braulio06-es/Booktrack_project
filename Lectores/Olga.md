@@ -13,3 +13,8 @@ Correo electrónico: Olgamorenomartin@gmail.com
 - *Autor favorito*: Sarah J. Maas
 
 - *Generos preferidos*: Fantasía, romántica, romantasy.
+
+## Libros pendientes
+
+- Percy Jackson y el ladrón del rayo
+- Una corte de rosas y espinas
