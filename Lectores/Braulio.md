@@ -1,6 +1,9 @@
 ----------------Perfil----------------------
+
 Nombre: Braulio
+
 Apellidos: Palomo Vázquez
+
 Correo electrónico: brauliopv2h@gmail.com
 
 ##Gustos
