@@ -23,23 +23,23 @@ Este sistema organiza **clubes de lectura** en carpetas. Cada club tiene su prop
 
 |   |-- club_1/
 
-|   |   |-- foro_sin_spoilers.txt
+|   |   |-- foro_sin_spoilers.md
 
-|   |   |-- foro_con_spoilers.txt
+|   |   |-- foro_con_spoilers.md
 
-|   |   |-- reunion_mensual.txt
+|   |   |-- reunion_mensual.md
 
-|   |   |-- planificacion.txt
+|   |   |-- planificacion.md
 
 |   |-- club_2/
 
-|       |-- foro_sin_spoilers.txt
+|       |-- foro_sin_spoilers.md
 
-|       |-- foro_con_spoilers.txt
+|       |-- foro_con_spoilers.md
 
-|       |-- reunion_mensual.txt
+|       |-- reunion_mensual.md
 
-|       |-- planificacion.txt
+|       |-- planificacion.md
 
 |-- README.md
 
