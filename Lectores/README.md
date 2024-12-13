@@ -18,7 +18,11 @@ Este proyecto utiliza un sistema de archivos para gestionar usuarios. Cada usuar
 ## 🛠️ Estructura del Proyecto
 
 /
+
 |-- Lectores/
+
 |   |-- juan.md
+
 |   |-- ana.md
+
 |-- README.md
