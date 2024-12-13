@@ -2,6 +2,8 @@
 
 Nombre: Braulio
 
+Condición: Moderador
+
 Apellidos: Palomo Vázquez
 
 Correo electrónico: brauliopv2h@gmail.com
