@@ -6,7 +6,7 @@ Apellidos: Palomo Vázquez
 
 Correo electrónico: brauliopv2h@gmail.com
 
-##Gustos
+## Gustos
 
 - *Libro favorito*: El nombre del viento
 
