@@ -13,3 +13,8 @@ Correo electrónico: Montes95@gmail.com
 - *Autor favorito*: J.K Rowling
 
 - *Generos preferidos*: Social, autoayuda.
+
+## Libros pendientes
+
+- Sapiens
+- Pensar bien
