@@ -14,6 +14,8 @@ Correo electrónico: Montes95@gmail.com
 
 - *Generos preferidos*: Social, autoayuda.
 
+- *Lectura actual*: Ninguno
+
 ## Libros pendientes
 
 - Sapiens
