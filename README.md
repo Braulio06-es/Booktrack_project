@@ -63,6 +63,11 @@ Explora nuestra biblioteca digital. Aquí tienes una muestra de lo que puedes en
 
 Solo tenéis que crearos un usuario siguiendo una estructura adecuada. Todos podemos ver los perfiles de todos, ¡así que no te cortes si quieres consultar el perfil de otro lector!
 
+### Sistema moderadores - explicación:
+
+Este proyecto ha sido ideado a modo de meritocracia. La participación activa de los usuarios se hará mediante pull request. Ésto estará gestionado por los moderadores.
+Todos podéis ser moderadores. Para ser moderador, hay que acumular 10 méritos (participación activa y aportaciones valiosas para todos los usuarios, más allá de consumir contenido, como por ejemplo, adiciones útiles). Los méritos son gestionados por los moderadores. Cada lector tiene marcada su condición (usuario o moderador) y sus méritos (a los moderadores les será eliminados el número de méritos al ya contar con esta condición). Los moderadores deben actuar de forma responsable y en beneficio de la comunidad. En caso contrario, su condición le será eliminada y no podrá volver a ser moderador. Existe una lista de los moderadores en la raíz, así como sugerencias.
+
 ---
 
 **¡Feliz lectura!** 📖💖
