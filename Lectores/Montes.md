@@ -6,6 +6,8 @@ Apellidos: Montes Belloso
 
 Condición: Usuario
 
+Méritos: 2
+
 Correo electrónico: Montes95@gmail.com
 
 ## Gustos
