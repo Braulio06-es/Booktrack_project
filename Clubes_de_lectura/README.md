@@ -18,17 +18,29 @@ Este sistema organiza **clubes de lectura** en carpetas. Cada club tiene su prop
 ## 🛠️ Estructura del Proyecto
 
 /
+
 |-- Clubes_de_lectura/
+
 |   |-- club_1/
+
 |   |   |-- foro_sin_spoilers.txt
+
 |   |   |-- foro_con_spoilers.txt
+
 |   |   |-- reunion_mensual.txt
+
 |   |   |-- planificacion.txt
+
 |   |-- club_2/
+
 |       |-- foro_sin_spoilers.txt
+
 |       |-- foro_con_spoilers.txt
+
 |       |-- reunion_mensual.txt
+
 |       |-- planificacion.txt
+
 |-- README.md
 
 ### Aviso ⚠️
