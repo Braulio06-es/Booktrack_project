@@ -14,6 +14,8 @@ Correo electrónico: Olgamorenomartin@gmail.com
 
 - *Generos preferidos*: Fantasía, romántica, romantasy.
 
+- *Lectura actual*: Una casa de llamas y sombras.
+
 ## Libros pendientes
 
 - Percy Jackson y el ladrón del rayo
