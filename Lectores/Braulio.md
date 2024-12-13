@@ -14,4 +14,11 @@ Correo electrónico: brauliopv2h@gmail.com
 
 - *Generos preferidos*: Ciencia ficción, fantasía, ficción histórica.
 
+## Libros pendientes
+
+- Palabras Radiantes
+- Juramentada
+- Ritmos de guerra
+- Viento y verdad
+
 
