@@ -57,6 +57,10 @@ Explora nuestra biblioteca digital. Aquí tienes una muestra de lo que puedes en
 
 ---
 
+## Fiabilidad ante pérdidas
+
+Este repositorio se guardará tanto mediante github como mediante copias de seguridad semanales en un disco duro físico por mi parte
+
 ## 🚀 Únete al Club
 
 ¿Listo/a para empezar esta aventura literaria? ¡Únete a nuestro club y forma parte de esta comunidad!  
