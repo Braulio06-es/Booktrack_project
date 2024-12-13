@@ -1,4 +1,4 @@
-# 📚 Club de Lectura "Letras Libres" 🌟
+# 📚 Club de Lectura "Booktrack" 🌟
 
 ¡Bienvenido/a al **Proyecto Booktrack**, querido lector! Este es un espacio para compartir nuestra pasión por los libros, descubrir nuevas lecturas, participar en retos literarios y mucho más. 🌈✨
 
