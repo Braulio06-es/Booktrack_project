@@ -14,6 +14,8 @@ Correo electrónico: brauliopv2h@gmail.com
 
 - *Generos preferidos*: Ciencia ficción, fantasía, ficción histórica.
 
+- *Lectura actual*: El camino de los reyes
+
 ## Libros pendientes
 
 - Palabras Radiantes
